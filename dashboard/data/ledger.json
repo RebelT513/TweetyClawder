@@ -1,0 +1,110 @@
+[
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Liberty +18.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -2581,
+    "stake_usd": 240.0,
+    "to_win": 9.3,
+    "result": "win",
+    "pnl": 9.3
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Winthrop +10.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 149.8,
+    "to_win": 147.2,
+    "result": "win",
+    "pnl": 147.2
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Winthrop +15.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.68,
+    "result": "win",
+    "pnl": 148.68
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Winthrop ML +338",
+    "bet_type": "Moneyline",
+    "market": "Live",
+    "odds": 238,
+    "stake_usd": 48.98,
+    "to_win": 116.77,
+    "result": "loss",
+    "pnl": -48.98
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Georgia State +12.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "win",
+    "pnl": 148.69
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "UCF -9.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "loss",
+    "pnl": -151.31
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Long Beach State +7.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 119,
+    "stake_usd": 137.17,
+    "to_win": 162.82,
+    "result": "win",
+    "pnl": 162.82
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Washington State +12.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "loss",
+    "pnl": -151.31
+  },
+  {
+    "date": "2026-11-02",
+    "sport": "NCAAB",
+    "bet": "Oregon -10.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -237,
+    "stake_usd": 299.99,
+    "to_win": 126.6,
+    "result": "win",
+    "pnl": 126.6
+  }
+]
