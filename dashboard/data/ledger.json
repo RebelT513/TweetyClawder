@@ -106,5 +106,41 @@
     "to_win": 126.6,
     "result": "win",
     "pnl": 126.6
+  },
+  {
+    "date": "2026-11-03",
+    "sport": "NCAAB",
+    "bet": "Cal Baptist +1.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -101,
+    "stake_usd": 227.17,
+    "to_win": 224.0,
+    "result": "loss",
+    "pnl": -227.17
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NCAAB",
+    "bet": "Oakland +23.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "win",
+    "pnl": 148.69
+  },
+  {
+    "date": "2026-11-07",
+    "sport": "NCAAB",
+    "bet": "IU Indy +16.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "pending",
+    "pnl": 0.0
   }
 ]
