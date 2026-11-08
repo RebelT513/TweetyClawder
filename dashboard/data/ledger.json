@@ -113,9 +113,9 @@
     "bet": "Cal Baptist +1.5",
     "bet_type": "Spread",
     "market": "Live",
-    "odds": -101,
+    "odds": 120,
     "stake_usd": 227.17,
-    "to_win": 224.0,
+    "to_win": 272.83,
     "result": "loss",
     "pnl": -227.17
   },
@@ -134,13 +134,13 @@
   {
     "date": "2026-11-07",
     "sport": "NCAAB",
-    "bet": "IU Indy +16.5",
+    "bet": "Bucknell +16.5",
     "bet_type": "Spread",
     "market": "Live",
     "odds": -102,
     "stake_usd": 151.31,
     "to_win": 148.69,
-    "result": "pending",
-    "pnl": 0.0
+    "result": "loss",
+    "pnl": -151.31
   }
 ]
