@@ -1,12 +1,12 @@
 {
-  "bankroll_current": 1585.21,
+  "bankroll_current": 1620.37,
   "bankroll_start": 1423.31,
-  "total_pnl": 161.9,
-  "total_bets": 12,
-  "wins": 7,
-  "losses": 5,
+  "total_pnl": 197.06,
+  "total_bets": 16,
+  "wins": 9,
+  "losses": 7,
   "pushes": 0,
-  "win_rate": 0.5833,
-  "roi": 0.0805,
-  "last_updated": "2026-11-08 12:00 PM CST"
+  "win_rate": 0.5625,
+  "roi": 0.0765,
+  "last_updated": "2026-11-09 12:00 AM CST"
 }

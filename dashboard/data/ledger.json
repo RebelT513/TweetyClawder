@@ -142,5 +142,53 @@
     "to_win": 148.69,
     "result": "loss",
     "pnl": -151.31
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NCAAB",
+    "bet": "Arkansas +15.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 219,
+    "stake_usd": 150.0,
+    "to_win": 328.04,
+    "result": "loss",
+    "pnl": -150.0
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NCAAB",
+    "bet": "Butler +18.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "loss",
+    "pnl": -151.31
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NCAAB",
+    "bet": "Western Kentucky +6.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 167,
+    "stake_usd": 112.22,
+    "to_win": 187.78,
+    "result": "win",
+    "pnl": 187.78
+  },
+  {
+    "date": "2026-11-08",
+    "sport": "NCAAB",
+    "bet": "Western Kentucky +11.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "win",
+    "pnl": 148.69
   }
 ]
