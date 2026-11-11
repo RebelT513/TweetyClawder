@@ -190,5 +190,17 @@
     "to_win": 148.69,
     "result": "win",
     "pnl": 148.69
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NCAAB",
+    "bet": "Georgetown -10.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 128,
+    "stake_usd": 127.28,
+    "to_win": 162.72,
+    "result": "win",
+    "pnl": 162.72
   }
 ]
