@@ -192,6 +192,18 @@
     "pnl": 148.69
   },
   {
+    "date": "2026-11-08",
+    "sport": "NCAAB",
+    "bet": "Norfolk State +16.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": null,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "loss",
+    "pnl": -151.31
+  },
+  {
     "date": "2026-11-10",
     "sport": "NCAAB",
     "bet": "Georgetown -10.5",
@@ -200,7 +212,67 @@
     "odds": 128,
     "stake_usd": 127.28,
     "to_win": 162.72,
+    "result": "loss",
+    "pnl": -127.28
+  },
+  {
+    "date": "2026-11-10",
+    "sport": "NCAAB",
+    "bet": "TCU ML -102",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
     "result": "win",
-    "pnl": 162.72
+    "pnl": 148.69
+  },
+  {
+    "date": "2026-11-11",
+    "sport": "NCAAB",
+    "bet": "Marquette +14.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "win",
+    "pnl": 148.69
+  },
+  {
+    "date": "2026-11-11",
+    "sport": "NCAAB",
+    "bet": "Tulsa -12.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 147,
+    "stake_usd": 121.26,
+    "to_win": 178.74,
+    "result": "loss",
+    "pnl": -121.26
+  },
+  {
+    "date": "2026-11-11",
+    "sport": "NCAAB",
+    "bet": "Seattle -8.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 117,
+    "stake_usd": 138.19,
+    "to_win": 161.81,
+    "result": "loss",
+    "pnl": -138.19
+  },
+  {
+    "date": "2026-11-11",
+    "sport": "NCAAB",
+    "bet": "Seattle ML +498",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": 328,
+    "stake_usd": 93.47,
+    "to_win": 306.53,
+    "result": "loss",
+    "pnl": -93.47
   }
 ]
