@@ -274,5 +274,41 @@
     "to_win": 306.53,
     "result": "loss",
     "pnl": -93.47
+  },
+  {
+    "date": "2026-11-12",
+    "sport": "NCAAB",
+    "bet": "George Mason -7.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -106,
+    "stake_usd": 154.31,
+    "to_win": 145.69,
+    "result": "win",
+    "pnl": 145.69
+  },
+  {
+    "date": "2026-11-12",
+    "sport": "NCAAB",
+    "bet": "Oklahoma State +19.5",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -102,
+    "stake_usd": 151.31,
+    "to_win": 148.69,
+    "result": "win",
+    "pnl": 148.69
+  },
+  {
+    "date": "2026-11-12",
+    "sport": "NCAAB",
+    "bet": "Seattle ML +498",
+    "bet_type": "Spread",
+    "market": "Live",
+    "odds": -115,
+    "stake_usd": 160.31,
+    "to_win": 139.69,
+    "result": "loss",
+    "pnl": -160.31
   }
 ]
